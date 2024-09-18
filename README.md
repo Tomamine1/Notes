@@ -17,4 +17,5 @@
 * [Translation Link](https://translate.google.ca/?sl=auto&tl=en&op=translate)
 
 # Experiments
+  :+1: :bug: :wink:
   
