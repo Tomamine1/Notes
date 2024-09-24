@@ -19,3 +19,13 @@
 # Experiments
   :+1: :bug: :wink:
   
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-P (print)
+- Ctrl + F  -  Find text
+- Alt + Tab (Change windows)
+
+Shortcuts I would like to start using: 
+- Ctrl + Shift + V (paste as plain text)
+- Shift + Delete (Delete the selected item without moving it to the Recycle Bin first.)
+- Ctrl + Backspace (Delete words to the left)
