@@ -29,3 +29,5 @@ Shortcuts I would like to start using:
 - Ctrl + Shift + V (paste as plain text)
 - Shift + Delete (Delete the selected item without moving it to the Recycle Bin first.)
 - Ctrl + Backspace (Delete words to the left)
+
+[CLI commands](docs/cli.md)
