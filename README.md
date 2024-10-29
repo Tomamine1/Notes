@@ -29,6 +29,7 @@ Shortcuts I would like to start using:
 - Ctrl + Shift + V (paste as plain text)
 - Shift + Delete (Delete the selected item without moving it to the Recycle Bin first.)
 - Ctrl + Backspace (Delete words to the left)
-
+  
+## Link for lab
 - [CLI commands](docs/cli.md) 
 - [Players JSON](docs/players.json)
