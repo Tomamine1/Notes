@@ -31,3 +31,4 @@ Shortcuts I would like to start using:
 - Ctrl + Backspace (Delete words to the left)
 
 [CLI commands](docs/cli.md) 
+[Players JSON](docs/players.json)
