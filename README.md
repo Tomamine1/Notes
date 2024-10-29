@@ -30,5 +30,5 @@ Shortcuts I would like to start using:
 - Shift + Delete (Delete the selected item without moving it to the Recycle Bin first.)
 - Ctrl + Backspace (Delete words to the left)
 
-[CLI commands](docs/cli.md) 
-[Players JSON](docs/players.json)
+- [CLI commands](docs/cli.md) 
+- [Players JSON](docs/players.json)
