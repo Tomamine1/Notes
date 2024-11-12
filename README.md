@@ -33,3 +33,4 @@ Shortcuts I would like to start using:
 ## Link for lab
 - [CLI commands](docs/cli.md) 
 - [Players JSON](docs/players.json)
+- [SQL](docs/lab11.sql)
