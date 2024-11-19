@@ -34,3 +34,4 @@ Shortcuts I would like to start using:
 - [CLI commands](docs/cli.md) 
 - [Players JSON](docs/players.json)
 - [SQL](docs/lab11.sql)
+- [SQL2](docs/lab12.sql)
